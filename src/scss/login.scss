@@ -1,0 +1,25 @@
+.main{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mobile, .password, .login{
+    width: 320px;
+    height: 70px;
+    border: solid;
+}
+
+.mobile{
+    padding: 0;
+    margin-top: 200px;
+    background: linear-gradient(left top, #cccccc, #000000);
+}
+
+.password, .login{
+
+}

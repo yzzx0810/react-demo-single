@@ -1,8 +1,4 @@
 module.exports = {
-    dev: {
-
-    },
-    build: {
-
-    }
+  dev: {},
+  build: {}
 };
